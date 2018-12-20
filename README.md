@@ -16,7 +16,7 @@ $ cd AI
 ## install
 
 ```bash
-npm install
+$npm install
 ```
 
 ## Run it
