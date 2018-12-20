@@ -5,11 +5,18 @@
 
 https://github.com/LatteNatureQ/AI
 
+
 ## Clone it
 
 ```bash
 $ git clone https://github.com/LatteNatureQ/AI.git --depth 1
 $ cd AI
+```
+
+## install
+
+```bash
+npm init
 ```
 
 ## Run it
